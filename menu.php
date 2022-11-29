@@ -46,7 +46,7 @@
 
 
     function datos() {
-        alert("Alumno: Reinaldo Jehú Rodríguez Álvarez\nGrado y grupo: 4-TID-1 \nNúmero de cuenta: 20210083");
+        alert("Alumno: Reinaldo Jehú Rodríguez Álvarez\nGrado y grupo: 4-TID-1 \nNúmero de control: 20210083");
     }
 
     function vector() {
